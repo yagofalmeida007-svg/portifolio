@@ -26,7 +26,7 @@ Este portfólio reúne meus principais trabalhos, tecnologias que domino e forma
 ## 📬 Contato
 
 - LinkedIn: [linkedin](https://www.linkedin.com/in/yago-fernandes-de-almeida-abbb70406/)
-- E-mail: seuemail@exemplo.com
+- E-mail: yagofalmeida007@gmail.com
 - GitHub: [@seu-usuario](https://github.com/seu-usuario)
 
 ---

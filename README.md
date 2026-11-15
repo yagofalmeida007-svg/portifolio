@@ -2,7 +2,7 @@
 
 Site de portfólio pessoal desenvolvido para apresentar meus projetos, habilidades e trajetória profissional.
 
-🔗 **Acesse o site:** [link](https://seu-link-aqui](https://yagofalmeida007-svg.github.io/portifolio/)
+🔗 **Acesse o site:** [link](https://yagofalmeida007-svg.github.io/portifolio/)
 
 ## 📌 Sobre o projeto
 
